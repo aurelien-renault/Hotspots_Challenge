@@ -14,4 +14,4 @@ This is therefore what this challenge proposes, we want to predict internet cons
 
 ## Authors
 
-This project have been done in collaboration by [Aurélien Renault](https://github.com/aurelien-renault), [Ayoub Tabaai](https://github.com/Ayoub2503), [Ikhlass Yaya-Oyé](https://github.com/ikhlo), [César Leblanc](https://github.com/CesarLeblanc), [Oumaima Bouther](https://github.com/bouther) and [Victor Clermont](https://github.com/VicCler).
+This project have been done in collaboration by [Aurélien Renault](https://github.com/aurelien-renault), [Ayoub Tabaai](https://github.com/Ayoub2503), [César Leblanc](https://github.com/CesarLeblanc), [Ikhlass Yaya-Oyé](https://github.com/ikhlo), [Oumaima Bouther](https://github.com/bouther) and [Victor Clermont](https://github.com/VicCler).
